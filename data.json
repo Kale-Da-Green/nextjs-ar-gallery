@@ -19,40 +19,40 @@
       "name": "1 X 1",
       "glbFile": "/assets/Envi_Night_v011.glb",
       "attributes": [
-        { "trait_type": "shape", "value": "cube" },
-        { "trait_type": "size", "value": "small" },
-        { "trait_type": "color", "value": "gold" },
-        { "trait_type": "material", "value": "metal" }
+        { "trait_type": "width", "value": "1" },
+        { "trait_type": "height", "value": "1" },
+        { "trait_type": "windows", "value": "30%" },
+        { "trait_type": "random", "value": "0" }
       ]
     },
     {
       "name": "3 X 3",
       "glbFile": "/assets/Envi_Night_v012.glb",
       "attributes": [
-        { "trait_type": "shape", "value": "cube" },
-        { "trait_type": "size", "value": "small" },
-        { "trait_type": "color", "value": "silver" },
-        { "trait_type": "material", "value": "metal" }
+        { "trait_type": "width", "value": "3" },
+        { "trait_type": "height", "value": "3" },
+        { "trait_type": "windows", "value": "60%" },
+        { "trait_type": "random", "value": "731" }
       ]
     },
     {
       "name": "1 X 4",
       "glbFile": "/assets/Envi_Night_v013.glb",
       "attributes": [
-        { "trait_type": "shape", "value": "cube" },
-        { "trait_type": "size", "value": "small" },
-        { "trait_type": "color", "value": "red" },
-        { "trait_type": "material", "value": "plastic" }
+        { "trait_type": "width", "value": "1" },
+        { "trait_type": "height", "value": "4" },
+        { "trait_type": "windows", "value": "10%" },
+        { "trait_type": "random", "value": "-11" }
       ]
     },
     {
       "name": "5 X 1",
       "glbFile": "/assets/Envi_Night_v014.glb",
       "attributes": [
-        { "trait_type": "shape", "value": "cube" },
-        { "trait_type": "size", "value": "small" },
-        { "trait_type": "color", "value": "green" },
-        { "trait_type": "material", "value": "plastic" }
+        { "trait_type": "width", "value": "5" },
+        { "trait_type": "height", "value": "1" },
+        { "trait_type": "windows", "value": "100%" },
+        { "trait_type": "random", "value": "-919" }
       ]
     }
   ]
